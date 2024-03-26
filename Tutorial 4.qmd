@@ -1,0 +1,7 @@
+---
+title: "Learning to Reference Figures, Tables & Sections"
+author: "Aneesh Agarwal"
+format: html
+editor: visual
+date: 26-03-2024
+---

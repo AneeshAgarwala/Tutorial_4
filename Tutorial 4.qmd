@@ -5,3 +5,14 @@ format: html
 editor: visual
 date: 26-03-2024
 ---
+
+```{r}
+knitr::opts_chunk$set(
+  fig.align = "center"
+)
+```
+
+```{r}
+library(tidyverse)
+```
+
